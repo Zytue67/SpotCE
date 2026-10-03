@@ -9,7 +9,7 @@ Download both files from the [SpotCE v1.0.0 release](https://github.com/Zytue67/
 - [SpotCE for macOS (.dmg)](https://github.com/Zytue67/SpotCE/releases/download/v1.0.0/SpotCE-macOS.dmg)
 - [SpotCE calculator program (.8xp)](https://github.com/Zytue67/SpotCE/releases/download/v1.0.0/SPOTCE.8xp)
 
-Transfer `SPOTCE.8xp` to the TI-84 Plus CE with TI Connect CE, then quit TI Connect CE. Open Spotify on your Mac, launch SpotCE on the calculator, connect the calculator by USB, and choose **Start Bridge** from the **SpotCE** menu-bar menu.
+Transfer `SPOTCE.8xp` to the TI-84 Plus CE with TI Connect CE, then quit TI Connect CE. Open Spotify on your Mac, launch SpotCE on the calculator, connect the calculator by USB, and choose **Start Bridge** from the **SpotCE** top menu-bar options after launching the app.
 
 ## Calculator controls
 
